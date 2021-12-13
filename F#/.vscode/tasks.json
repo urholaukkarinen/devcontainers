@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "run 6",
+            "label": "dotnet fsi main.fsx",
             "type": "shell",
             "command": "dotnet fsi main.fsx",
             "problemMatcher": [],

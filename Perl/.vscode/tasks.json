@@ -9,7 +9,7 @@
     },
     "tasks": [
         {
-            "label": "run 9",
+            "label": "perl main.pl",
             "type": "shell",
             "command": "perl main.pl",
             "problemMatcher": [],

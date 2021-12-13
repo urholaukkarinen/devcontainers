@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "run 10",
+            "label": "php main.php",
             "type": "shell",
             "command": "php main.php",
             "problemMatcher": [],

@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "run 8",
+            "label": "elixir main.exs",
             "type": "shell",
             "command": "elixir main.exs",
             "problemMatcher": [],

@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "run 1",
+            "label": "swift main.swift",
             "type": "shell",
             "command": "swift main.swift",
             "problemMatcher": [],

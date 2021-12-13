@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "run 7",
+            "label": "bal run main.bal",
             "type": "shell",
             "command": "bal run main.bal",
             "problemMatcher": [],

@@ -4,7 +4,7 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "run 2",
+			"label": "Rscript main.r",
 			"type": "shell",
 			"command": "Rscript main.r",
 			"problemMatcher": [],

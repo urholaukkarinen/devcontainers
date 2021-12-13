@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "run 13",
+            "label": "haxe --main Main --interp",
             "type": "shell",
             "command": "haxe --main Main --interp",
             "problemMatcher": [],
